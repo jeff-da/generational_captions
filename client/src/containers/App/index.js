@@ -33,7 +33,7 @@ class App extends Component {
           sidebar={
             <div>
             <p></p>
-            <img src="http://jeffda.com/generational_captions/icons/album.png" style={{width:"30px", marginLeft:"9px", marginTop:"20px"}}></img><br></br><p></p>
+            <img src="http://jeffda.com/generational_captions/icons/album.png" style={{width:"30px", marginLeft:"9px", marginTop:"20px"}} href="."></img><br></br><p></p>
             <ImageUploader
                 style={{ maxWidth: '500px', margin: "20px auto" }}
                 withIcon={true}
