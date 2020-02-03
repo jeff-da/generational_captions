@@ -1,0 +1,54 @@
+{
+  "products": [{
+      "id": "1",
+      "inference": "There is a water fountain in front of a large building. It sprays up several feet and falls down in a partial mist. The main fountain water stream in lighted from below, illuminating the water. The main structure of the fountain is round and made of dark concrete. The surrounding building has large light colored pillars that can be seen behind the fountain. Several trees can be seen in the distance along with some green bushes.",
+      "image": "http://jeffda.com/generational_captions/examples/images/25.jpg"
+    },
+
+    {
+      "id": "4",
+      "inference": "Cherry",
+      "image": "http://jeffda.com/generational_captions/examples/images/25.jpg"
+    },
+
+    {
+      "id": "5",
+      "inference": "Cherry",
+      "image": "http://jeffda.com/generational_captions/examples/images/25.jpg"
+    },
+
+    {
+      "id": "6",
+      "inference": "Cherry",
+      "image": "http://jeffda.com/generational_captions/examples/images/25.jpg"
+    },
+
+    {
+      "id": "2",
+      "name": "Orange",
+      "image": "images/Orange.png",
+      "price": "$2.99",
+      "colors": ["green", "blue"],
+      "condition": "Frozen",
+      "description": "Giant Orange"
+    },
+    {
+      "id": "3",
+      "name": "Nuts",
+      "image": "images/Nuts.png",
+      "price": "$1.00",
+      "colors": ["red"],
+      "condition": "Frozen",
+      "description": "Mixed Nuts"
+    },
+    {
+      "id": "4",
+      "name": "Strawberry",
+      "image": "images/Strawberry.png",
+      "price": "$1.49",
+      "colors": ["blue"],
+      "condition": "Fresh",
+      "description": "Just Strawberry"
+    }
+  ]
+}
